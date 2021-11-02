@@ -1,15 +1,15 @@
 # deskassist
-Assistente pessoal para desktop
+Personal assistant for desktop
 
-Um projeto em andamento para uso pessoal. Como passo a maior parte do tempo em frente ao desktop, vou concentrar minhas necessidades diárias em único aplicativo.
+This is a ongoing project for my personal use. 
 
 Icons made by [Good Ware](https://www.flaticon.com/authors/good-ware) from [www.flaticon.com](https://www.flaticon.com/)
 
-# implementado
-Previsão do tempo
+# done
+weather forecast
 
-# pendente
-* controle de automação residencial
-* lista de mercado
-* lembretes
-* próximos eventos em agenda
+# todo
+* home automation
+* shopping list
+* reminders
+* next calendar events
